@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+This project takes in 3 one bit vectors, adds them together and returns a sum and carry.
 
 ## How to test
 
-Explain how to use your project
+To test this, cycle through all possible inputs and compare to truth table.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None.
