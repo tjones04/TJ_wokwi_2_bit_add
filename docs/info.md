@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-This project takes in 3 one bit vectors, adds them together and returns a sum and carry.
+This project generates a psuedorandom bitstream using a step and reset button.
 
 ## How to test
 
-To test this, cycle through all possible inputs and compare to truth table.
+To test this, just make sure reset button resets the outputs, and verify alongside other random generators.
 
 ## External hardware
 
-None.
+This uses a switch, two buttons, and input resistor.
